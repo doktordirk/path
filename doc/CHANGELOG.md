@@ -1,3 +1,30 @@
+<a name="1.1.1"></a>
+## [1.1.1](https://github.com/aurelia/path/compare/1.1.0...v1.1.1) (2016-09-23)
+
+
+### Bug Fixes
+
+* **index:** ensure new traditional param is marked as optional ([fc600e5](https://github.com/aurelia/path/commit/fc600e5))
+
+
+
+<a name="1.1.0"></a>
+# [1.1.0](https://github.com/aurelia/path/compare/1.0.0...v1.1.0) (2016-09-22)
+
+#### Features
+
+* **queries:** Build and parse queries also in traditional style
+
+<a name="1.0.0"></a>
+# [1.0.0](https://github.com/aurelia/path/compare/1.0.0-rc.1.0.0...v1.0.0) (2016-07-27)
+
+
+
+<a name="1.0.0-rc.1.0.0"></a>
+# [1.0.0-rc.1.0.0](https://github.com/aurelia/path/compare/1.0.0-beta.2.0.1...v1.0.0-rc.1.0.0) (2016-06-22)
+
+
+
 ### 1.0.0-beta.1.2.2 (2016-05-10)
 
 
